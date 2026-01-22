@@ -1,0 +1,5 @@
+{
+  "SERVER_LAN": "http://172.16.2.25:5000",
+  "SERVER_PUBLIC": "https://unmanipulatory-juana-thirdly.ngrok-free.dev",
+  "DEFAULT_MODE": "LAN"
+}
