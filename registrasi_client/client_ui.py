@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import requests
 
-SERVER = "http://172.16.2.25:5000"
+SERVER = "http://172.16.1.13:5000"
 
 root = tk.Tk()
 root.title("HUT OPS Registration")
